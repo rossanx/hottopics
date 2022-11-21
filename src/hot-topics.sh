@@ -3,7 +3,14 @@
 # timestamp: Mon Oct 31 12:13:53 PM -03 2022
 
 ## 5 years back
-NAME="netsoft"
+#NAME="netsoft"
+
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 CONFERENCE_NAME"
+    exit
+fi
+
+NAME=$1
 
 rm -f ${NAME}-final-sorted.txt
 echo "Generating results for ${NAME}"
