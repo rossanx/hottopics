@@ -13,12 +13,12 @@ Example conference: netsoft
 ```
     ...
 	NAME="netsoft"
-	...
+    ...
 ```
 3 - Run src/hot-topics.sh:
 ```bash
     cd src
-	./hot-topics.sh
+    ./hot-topics.sh
 ```	
 4 - End result is located on `src/netsoft-final-sorted.txt`
 
