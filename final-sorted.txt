@@ -1,0 +1,149 @@
+Abstractions and virtualization of resources, services, and functions 2018
+Abstractions and virtualization of resources, services, and functions 2019
+Abstractions and virtualization of resources, services and functions 2020
+Abstractions and virtualization of resources, services and functions 2021
+Abstractions and virtualization of resources, services and functions 2022
+AI techniques to support network automation 2019
+AI techniques to support network automation 2020
+AI techniques to support network automation 2021
+AI techniques to support network automation 2022
+Analytics and big data approaches for managing softwarized networks 2018
+Analytics and big data approaches for managing softwarized networks 2019
+APIs, protocols, and languages for programmable networks 2018
+APIs, protocols, and languages for programmable networks 2019
+Big data analytics for managing softwarized networks 2020
+Big data analytics for managing softwarized networks 2021
+Big data analytics for managing softwarized networks 2022
+Centralized vs distributed control, management & orchestration 2020
+Centralized vs distributed control, management & orchestration 2021
+Centralized vs distributed control, management & orchestration 2022
+Centralized vs Distributed control, management & orchestration(/choreography) 2018
+Cognitive and autonomic networking 2018
+Cognitive and autonomic networking 2019
+Cognitive and autonomic networking 2020
+Cognitive and autonomic networking 2021
+Cognitive and autonomic networking 2022
+Container/microservice-based network functions 2018
+Container/microservice-based network functions 2019
+Container/microservice-based network functions 2020
+Container/microservice-based network functions 2021
+Container/microservice-based network functions 2022
+Cooperative multi-domain, multi-tenant SDN/NFV environments 2020
+Cooperative multi-domain, multi-tenant SDN/NFV environments 2021
+Cooperative multi-domain, multi-tenant SDN/NFV environments 2022
+Cooperative multi-party, multi-domain, multi-tenant SDN/NFV environments 2019
+Debugging and introspection of software-defined systems 2020
+Debugging and introspection of software-defined systems 2021
+Debugging and introspection of software-defined systems 2022
+Debugging and introspection of software-defined virtualized systems 2018
+DevOps methodologies for network softwarization 2019
+DevOps methodologies for network softwarization 2020
+DevOps methodologies for network softwarization 2021
+DevOps methodologies for network softwarization 2022
+Dynamic resource discovery and negotiation schemes 2020
+Dynamic resource discovery and negotiation schemes 2021
+Dynamic resource discovery and negotiation schemes 2022
+Dynamic resource discovery mechanisms and service parameter/resource negotiation schemes 2019
+Efficient network/service monitoring in SDN/NFV 2019
+Efficient network/service monitoring in SDN/NFV 2020
+Efficient network/service monitoring in SDN/NFV 2021
+Efficient network/service monitoring in SDN/NFV 2022
+Energy efficient and green SDI 2018
+Energy efficient and green software-defined infrastructures (SDI) 2019
+Energy efficient and green software-defined infrastructures (SDI) 2020
+Energy-efficient and green software-defined infrastructures (SDI) 2021
+Energy-efficient and green software-defined infrastructures (SDI) 2022
+Experience reports from experimental testbeds and deployments 2018
+Experience reports from experimental testbeds and deployments 2019
+Experience reports from experimental testbeds and deployments 2020
+Experience reports from experimental testbeds and deployments 2021
+Experience reports from experimental testbeds and deployments 2022
+Impact of the open-source on network softwarization 2022
+Lifecycle management of network software 2018
+Lifecycle management of network software 2019
+Lifecycle management of network software 2020
+Lifecycle management of network software 2021
+Lifecycle management of network software 2022
+Mapping and scheduling of SFC 2021
+Mapping and scheduling of SFC 2022
+Mobility management in software networks 2019
+Mobility management in software networks 2020
+Mobility management in softwarized networks 2021
+Mobility management in softwarized networks 2022
+Mobility/Security/Safety/Trust support in virtualized environments 2018
+Network brokering services for inter-edge/cloud interconnects 2022
+Network implications for the creation of a (device to cloud) computing continuum 2022
+Network management at the edge 2021
+Network management at the edge 2022
+Network management at the edge for low-latency services 2020
+Network slicing and slice management 2018
+Network slicing and slice management 2019
+Network slicing and slice management 2020
+Network slicing and slice management 2021
+Network slicing and slice management 2022
+Network softwarization for 5G 2020
+Network softwarization for 5G 2021
+Network softwarization for 5G/6G 2022
+New service models and paradigms enabled by softwarization 2018
+New service models and paradigms enabled by softwarization 2019
+New value chains and business models 2018
+New value chains and business models 2019
+New value chains and service models enabled by softwarization 2020
+New value chains and service models enabled by softwarization 2021
+New value chains and service models enabled by softwarization 2022
+Policy-based and Intent-Based Networking 2019
+Policy-based and intent-based Networking 2020
+Policy-based and intent-based networking 2021
+Policy-based and intent-based networking 2022
+Policy-Based Networking (PBN) and Intent-Based Networking (IBN) in Software-Defined Infrastructures (SDI) 2018
+Programmable SDN and NFV 2018
+Programmable SDN and NFV: languages and architectures 2020
+Programmable SDN and NFV: languages and architectures 2021
+Programmable SDN and NFV: languages and architectures 2022
+Programmable SDN and NFV: languages, architectures, environments 2019
+QoS and QoE in softwarized infrastructures 2018
+QoS and QoE in softwarized infrastructures 2019
+QoS and QoE in softwarized infrastructures 2020
+QoS and QoE in softwarized infrastructures 2021
+QoS and QoE in softwarized infrastructures 2022
+Real-time operations and efficient network/service monitoring in SDN/NFV 2018
+Resilience, reliability, and robustness of softwarized networks 2018
+Resilience, reliability, and robustness of softwarized networks 2019
+Resilience, reliability, and robustness of softwarized networks 2020
+Resilience, reliability, and robustness of softwarized networks 2021
+Resilience, reliability, and robustness of softwarized networks 2022
+SDN switch/router architecture and design 2018
+SDN switch/router architecture and design 2019
+SDN switch/router architecture and design 2020
+SDN switch/router architecture and design 2021
+SDN switch/router architecture and design 2022
+Security, Safety, Trust and Privacy in virtualized environments 2020
+Security, Safety, Trust and Privacy in virtualized environments 2021
+Security, Safety, Trust and Privacy in virtualized environments 2022
+Security, Safety, Trust and Privacy support in virtualized environments 2019
+Service fulfillment assurance systems in SDN/NFV environments 2019
+Service function chaining 2018
+Service Function Chaining 2019
+Service Function Chaining 2020
+Service Function Chaining (SFC) 2021
+Service Function Chaining (SFC) 2022
+Socio-economic impact and regulations for softwarization 2020
+Socio-economic impact and regulations for softwarization 2021
+Socio-economic impact and regulations for softwarization 2022
+Socio-economic impact and regulatory implications for softwarization 2018
+Socio-economic impact and regulatory implications for softwarization 2019
+Softwarized cloud, fog, and edge infrastructures 2018
+Softwarized cloud, fog, and edge infrastructures 2019
+Softwarized cloud, fog and edge infrastructures 2020
+Softwarized cloud, fog, and edge infrastructures 2021
+Softwarized cloud, fog, and edge infrastructures 2022
+Softwarized platforms for Internet of Things (IoT) 2018
+Softwarized platforms for Internet of Things (IoT) 2019
+Softwarized platforms for Internet of Things (IoT) 2020
+Softwarized platforms for Internet of Things (IoT) 2021
+Softwarized platforms for Internet of Things (IoT) 2022
+Transition strategies from existing networks to SDN/NFV 2018
+Transition strategies from existing networks to SDN/NFV 2019
+Transition strategies from existing networks to SDN/NFV 2020
+Transition strategies from existing networks to SDN/NFV 2021
+Transition strategies from existing networks to SDN/NFV 2022

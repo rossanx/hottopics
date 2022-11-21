@@ -1,0 +1,25 @@
+Programmable SDN and NFV
+Softwarized cloud, fog, and edge infrastructures
+Cognitive and autonomic networking
+Network slicing and slice management
+Policy-Based Networking (PBN) and Intent-Based Networking (IBN) in Software-Defined Infrastructures (SDI)
+Centralized vs Distributed control, management & orchestration(/choreography)
+Abstractions and virtualization of resources, services, and functions
+Service function chaining
+Container/microservice-based network functions
+Real-time operations and efficient network/service monitoring in SDN/NFV
+Analytics and big data approaches for managing softwarized networks
+QoS and QoE in softwarized infrastructures
+Resilience, reliability, and robustness of softwarized networks
+Mobility/Security/Safety/Trust support in virtualized environments
+SDN switch/router architecture and design
+APIs, protocols, and languages for programmable networks
+Lifecycle management of network software
+Debugging and introspection of software-defined virtualized systems
+Transition strategies from existing networks to SDN/NFV
+Softwarized platforms for Internet of Things (IoT)
+New service models and paradigms enabled by softwarization
+New value chains and business models
+Socio-economic impact and regulatory implications for softwarization
+Energy efficient and green SDI
+Experience reports from experimental testbeds and deployments
