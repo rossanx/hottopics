@@ -2,7 +2,7 @@
 
 Example conference: netsoft
 
-1 - Go over the conference/event site and targer year; and copy all the topics to a file named like this (in a 5-year window):
+1 - Go over the conference/event site and targer year; and copy all the topics to files named like this (in a 5-year window):
 ```
    netsoft-2018.txt
    ...
