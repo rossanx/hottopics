@@ -9,17 +9,11 @@ Example conference: netsoft
    netsoft-2022.txt
 ```
 
-2 - Change src/hot-topics.sh to reflect the target conference:
-```
-    ...
-	NAME="netsoft"
-    ...
-```
-3 - Run src/hot-topics.sh:
+2 - Run `src/hot-topics.sh` providing the conference name as parameter:
 ```bash
     cd src
-    ./hot-topics.sh
+    ./hot-topics.sh netsoft
 ```	
-4 - End result is located on `src/netsoft-final-sorted.txt`
+3 - End result is located on `src/netsoft-final-sorted.txt`
 
 
