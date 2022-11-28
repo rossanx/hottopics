@@ -16,7 +16,7 @@ rm -f ${NAME}-final-sorted.txt
 echo "Generating results for ${NAME}"
 for year in $(seq 2018 2022); do
     while read line; do
-	echo $line $year >> ${NAME}-final.txt
+	echo $line $year | tr '[:upper:]' '[:lower:]' >> ${NAME}-final.txt
     done < ${NAME}-${year}.txt
 done
 
